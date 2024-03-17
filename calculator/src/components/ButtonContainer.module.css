@@ -1,0 +1,16 @@
+.btnsContainer {
+    margin: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.operator {
+    background-color: #fff;
+    border: none;
+    color: red;
+    font-size: 15px;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+}
